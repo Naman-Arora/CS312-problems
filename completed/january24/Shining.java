@@ -1,4 +1,4 @@
-package completed;
+package completed.january24;
 
 public class Shining {
     public static void main(String[] args) {

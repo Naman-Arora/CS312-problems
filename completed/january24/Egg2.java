@@ -1,4 +1,4 @@
-package completed;
+package completed.january24;
 
 public class Egg2 {
     public static void main(String args[]) {

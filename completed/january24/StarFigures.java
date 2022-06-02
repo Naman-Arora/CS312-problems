@@ -1,4 +1,4 @@
-package completed;
+package completed.january24;
 public class StarFigures{
     public static void main(String[] args) {
         for(int i = 0; i < 2; i++){
