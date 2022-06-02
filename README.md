@@ -7,7 +7,14 @@
 
 ## Assignment List by Date and Name
 
-|Date|Assignment Name|Status|Link|
-|----|---------------|------|----|
-| 1/21 | 1.1 Stewie | Complete | [1.1 Stewie](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e1-Stewie)|
-| 1/21 | 1.8 Stewie2 | Complete | [1.8 Stewie2](https://www.notion.so/namarora/1-21-a22ea5c1858045828f446f144c688890)|
+|Date  |Assignment Name    |  Status  | Link                                                                                               |
+|------|-------------------|----------|----------------------------------------------------------------------------------------------------|
+| 1/21 | 1.1 Stewie        | Complete | [1.1 Stewie](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e1-Stewie)            |
+| 1/21 | 1.8 Stewie2       | Complete | [1.8 Stewie2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e8-Stewie2)          |
+| 1/24 | 1.9 Egg           | Complete | [1.9 Egg](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e9-Egg)                  |
+| 1/24 | 1.10 Egg2         | Complete | [1.10 Egg2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e10-Egg2)              |
+| 1/24 | 1.13 StarFigures  | Complete | [1.13 StarFigures](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e13-StarFigures)|
+| 1/24 | 1.16 Shining      | Complete | [1.16 Shining](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e16-Shining)        |
+| 1/26 | 2.3 Expressions1  | Complete | [2.3 Expressions1](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s3-expressions1)|
+| 1/26 | 2.16 ValuesOfIJK  | Complete | [2.16 ValuesOfIJK](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s16-valuesOfIJK)|
+| 1/26 | 2.17 MaxMin       | Complete | [2.17 MaxMin](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)          |
