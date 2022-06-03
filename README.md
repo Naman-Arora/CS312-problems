@@ -8,7 +8,7 @@
 ## Assignment List by Date and Name
 
 | Date (From Calendar) | Problem Name and Link | Solution Link |
-|------|----------------------|----------|------|-----|
+|------|----------------------|----------|
 | 1/21 | [1.1 Stewie](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e1-Stewie)| [1.1 Stewie](completed/january21/Stewie.java)|
 | 1/21 | [1.8 Stewie2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e8-Stewie2)| [1.8 Stewie2](completed/january21/Stewie2.java)|
 | 1/24 | [1.9 Egg](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e9-Egg)| [1.9 Egg](completed/january21/Stewie.java)|
