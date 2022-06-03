@@ -1,4 +1,4 @@
-package completed.february2;
+package completed.february02;
 
 public class PrintDesign {
     public static void main(String[] args) {

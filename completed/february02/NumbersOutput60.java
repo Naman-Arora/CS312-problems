@@ -1,4 +1,4 @@
-package completed.february2;
+package completed.february02;
 
 public class NumbersOutput60 {
     public static void main(String[] args) {
