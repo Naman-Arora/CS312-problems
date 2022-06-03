@@ -7,7 +7,7 @@
 
 ## Assignment List by Date and Name
 
-| Date | Assignment Name      | Status   | Link |
+| Date (From Calendar) | Assignment Name      | Status   | Link |
 |------|----------------------|----------|------|
 | 1/21 | 1.8 Stewie2          | Complete | [1.8 Stewie2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e8-Stewie2)|
 | 1/21 | 1.1 Stewie           | Complete | [1.1 Stewie](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e1-Stewie)|
@@ -25,3 +25,8 @@
 | 1/31 | 2.5 StarTriangle     | Complete | [2.5 StarTriangle](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e5-starTriangle)|
 | 1/31 | 2.6 NumberTriangle   | Complete | [2.6 NumberTriangle](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e6-numberTriangle)|
 | 1/31 | 2.8 SpacesAndNumbers | Complete | [2.8 SpacesAndNumbers](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e8-spacesAndNumbers)|
+| 2/02 | 2.3 Fibonacci        | Complete | [2.3 Fibonacci](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e3-fibonacci)|
+| 2/02 | 2.10 NumbersOutput60 | Complete | [2.10 NumbersOutput60](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e10-numbersOutput60)|
+| 2/02 | 2.15 PrintDesign     | Complete | [2.15 PrintDesign](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e15-printDesign)|
+| 2/02 | 2.16 SlashFigure     | Complete | [2.16 SlashFigure](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e16-SlashFigure)|
+| 2/02 | 2.17 SlashFigure2    | Complete | [2.17 SlashFigure2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/e17-SlashFigure2)|
