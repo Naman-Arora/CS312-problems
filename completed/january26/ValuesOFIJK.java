@@ -1,3 +1,5 @@
+package completed.january26;
+
 public class ValuesOFIJK {
     public static void main(String[] args) {
         int i = 2;

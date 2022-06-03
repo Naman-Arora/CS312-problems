@@ -1,3 +1,5 @@
+package completed.january26;
+
 public class MaxMin {
     public static void main(String[] args) {
         int max;

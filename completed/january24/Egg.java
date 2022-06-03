@@ -1,3 +1,5 @@
+package completed.january24;
+
 public class Egg {
     public static void main(String args[]) {
         System.out.println("  _______");
