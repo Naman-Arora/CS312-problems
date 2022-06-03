@@ -21,3 +21,6 @@
 | 1/28 | 2.5 Expressions3  | Complete | [2.5 Expressions3](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)     |
 | 1/28 | 2.13 ValuesOfABC  | Complete | [2.13 valuesOfABC](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)     |
 | 1/28 | 2.15 FirstSecond2 | Complete | [2.15 firstSecond2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)    |
+| 1/31 | 2.15 FirstSecond2 | Complete | [2.15 firstSecond2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)    |
+| 1/31 | 2.15 FirstSecond2 | Complete | [2.15 firstSecond2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)    |
+| 1/31 | 2.15 FirstSecond2 | Complete | [2.15 firstSecond2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter2/s17-maxMin)    |

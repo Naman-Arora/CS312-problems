@@ -1,4 +1,3 @@
-package completed.january28;
 public class FirstSecond2 {
 
     public static void main(String[] args) {
