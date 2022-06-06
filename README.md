@@ -7,8 +7,8 @@
 
 ## Assignment List by Date and Name
 
-| Date (From Calendar) | Problem Name and Link                                                                      | Solution Link |
-|------|------------------------------------------------------------------------------------------------------------|---------------|
+| Date (From Calendar) | Problem Name and Link                                                                       | Solution Link |
+|------|-------------------------------------------------------------------------------------------------------------|---------------|
 | 1/21 | [1.1: Stewie](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e1-Stewie)                    | [1.1: Stewie - *Solved*](completed/january21/Stewie.java)|
 | 1/21 | [1.8: Stewie2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e8-Stewie2)                  | [1.8: Stewie2 - *Solved*](completed/january21/Stewie2.java)|
 | 1/24 | [1.9: Egg](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter1/e9-Egg)                          | [1.9: Egg - *Solved*](completed/january24/Egg.java)|
@@ -38,3 +38,14 @@
 | 2/09 | [3G.5: ShowDesign](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e3-printPowersOfN)| [3G.5: ShowDesign - *Solved*](completed/february09/ShowDesign.java)|
 | 2/11 | [3G.7: Squares](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3g/e7-Squares)| [3G.7: Squares - *Solved*](completed/february11/Squares.java)|
 | 2/11 | [3G.12: Triangle](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3g/e12-Triangle)| [3G.7: Triangle - *Solved*](completed/february11/Triangle.java)|
+| 2/14 | [3.8: ParameterMysteryTouch](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/s8-parameterMysteryTouch)| [3.8: ParameterMysteryTouch - *Solved*](completed/february14/ParameterMysteryTouch.java)|
+| 2/14 | [3.13: MathExpressions](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/s13-mathExpressions)| [3.13: MathExpressions - *Solved*](completed/february14/MathExpressions.java)|
+| 2/16 | [3.4: PrintSquare](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e4-printSquare)| [3.4: PrintSquare - *In Complete*](completed/february16/PrintSquare.java)|
+| 2/16 | [3.8: Quadratic](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e8-quadratic)| [3.8: Quadratic - *Solved*](completed/february16/Quadratic.java)|
+| 2/16 | [3.11: Distance](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e11-distance)| [3.11: Distance - *Solved*](completed/february16/Distance.java)|
+| 2/18 | [4.2: LogicExpressions1](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/s2-logicExpressions1)| [4.2: LogicExpressions1 - *Solved*](completed/february18/LogicExpressions1.java)|
+| 2/18 | [4.2: Repl](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e2-repl)| [4.2: Repl - *Solved*](completed/february18/Repl.java)|
+| 2/18 | [4.3: Season](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e3-season)| [4.3: Season - *Solved*](completed/february18/Season.java)|
+| 2/18 | [4.8: SmallestLargest](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e8-smallestLargest)| [4.8: SmallestLargest - *Solved*](completed/february18/SmallestLargest.java)|
+| 2/18 | [4.12: PrintTriangleType](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e12-printTriangleType)| [4.12: PrintTriangleType - *Solved*](completed/february18/PrintTriangleType.java)|
+| 2/18 | [4.19: Quadrant](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e19-quadrant)| [4.19: Quadrant - *Solved*](completed/february18/Quadrant.java)|
