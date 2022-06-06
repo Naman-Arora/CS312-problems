@@ -49,3 +49,7 @@
 | 2/18 | [4.8: SmallestLargest](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e8-smallestLargest)| [4.8: SmallestLargest - *Solved*](completed/february18/SmallestLargest.java)|
 | 2/18 | [4.12: PrintTriangleType](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e12-printTriangleType)| [4.12: PrintTriangleType - *Solved*](completed/february18/PrintTriangleType.java)|
 | 2/18 | [4.19: Quadrant](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e19-quadrant)| [4.19: Quadrant - *Solved*](completed/february18/Quadrant.java)|
+| 2/21 | [3.17: PadString](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e17-padString)| [3.17: PadString - *Solved*](completed/february21/PadString.java)|
+| 2/21 | [3.18: Vertical](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e18-vertical)| [3.18: Vertical - *Solved*](completed/february21/Vertical.java)|
+| 2/21 | [4.11: LongestName](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e11-longestName)| [4.11: LongestName - *Solved*](completed/february21/LongestName.java)|
+| 2/21 | [4.20: CharMystery](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/s20-charMystery)| [4.20: CharMystery - *Solved*](completed/february21/CharMystery.java)|
