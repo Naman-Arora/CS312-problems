@@ -6,9 +6,9 @@ public class FirstSecond2 {
         original();
         shortened();
     }
-    
+
     public static void original() {
-        
+
         int first = 8;
         int second = 19;
 
@@ -18,7 +18,7 @@ public class FirstSecond2 {
 
     }
 
-    public static void shortened(){
+    public static void shortened() {
 
         int first = 8, second = 19;
         first += second;

@@ -15,7 +15,8 @@ public class ParameterMysteryTouch {
         touch(knees, "Toes");
         touch(head, knees + " knees");
     }
+
     public static void touch(String elbow, String ear) {
-        System.out.println("touch your " + elbow +  " to your " + ear);
+        System.out.println("touch your " + elbow + " to your " + ear);
     }
 }

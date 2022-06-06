@@ -1,9 +1,10 @@
 package completed.february07;
+
 public class PrintPowersOfN {
     public static void main(String[] args) {
-        printPowersOfN(4,3);
-        printPowersOfN(5,6);
-        printPowersOfN(-2,8);
+        printPowersOfN(4, 3);
+        printPowersOfN(5, 6);
+        printPowersOfN(-2, 8);
     }
 
     public static void printPowersOfN(int base, int exp) {

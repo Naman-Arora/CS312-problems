@@ -16,5 +16,5 @@ public class LogicExpressions1 {
         System.out.println(y / y == 1);
         System.out.println(x * (y + 2) > y - (y + z) * 2);
 
-    }	
+    }
 }

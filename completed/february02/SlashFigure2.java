@@ -9,7 +9,7 @@ public class SlashFigure2 {
             for (int b = 0; b < (a * 2); b++) {
                 System.out.print("\\");
             }
-            for (int c = (4 * a); c < ( (size * 4) - 2); c++) {
+            for (int c = (4 * a); c < ((size * 4) - 2); c++) {
                 System.out.print("!");
             }
             for (int d = 0; d < (a * 2); d++) {

@@ -11,11 +11,9 @@ public class PrintTriangleType {
     public static void printTriangleType(int a, int b, int c) {
         if (a == b && b == c) {
             System.out.println("equilateral");
-        }
-        else if((a == b && b != c) || (b == c && a != c) || (a == c && b != c)){
+        } else if ((a == b && b != c) || (b == c && a != c) || (a == c && b != c)) {
             System.out.println("isosceles");
-        }
-        else{
+        } else {
             System.out.println("scalene");
         }
     }

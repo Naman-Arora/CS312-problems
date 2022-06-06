@@ -6,7 +6,7 @@ public class PrintDesign {
     }
 
     public static void printDesign() {
-        for (int i = 1; i < 10; i+=2) {
+        for (int i = 1; i < 10; i += 2) {
             for (int k = 0; k < (5 - (i / 2)); k++) {
                 System.out.print("-");
             }
