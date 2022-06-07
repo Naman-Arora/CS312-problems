@@ -53,3 +53,9 @@
 | 2/21 | [3.18: Vertical](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e18-vertical)| [3.18: Vertical - *Solved*](completed/february21/Vertical.java)|
 | 2/21 | [4.11: LongestName](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e11-longestName)| [4.11: LongestName - *Solved*](completed/february21/LongestName.java)|
 | 2/21 | [4.20: CharMystery](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/s20-charMystery)| [4.20: CharMystery - *Solved*](completed/february21/CharMystery.java)|
+| 2/23 | [3.19: PrintReverse](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e19-printReverse)| [3.19: PrintReverse - *Solved*](completed/february23/PrintReverse.java)|
+| 2/23 | [4.17: Stutter](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e17-stutter)| [4.17: Stutter - *Solved*](completed/february23/Stutter.java)|
+| 2/23 | [4.18: WordCount](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e18-wordCount)| [4.18: WordCount - *Solved*](completed/february23/WordCount.java)|
+| 2/25 | [5.3: ToBinary](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e3-ToBinary)| [5.3: ToBinary - *Solved*](completed/february25/ToBinary.java)|
+| 2/25 | [5.4: WhileLoopMystery2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/s4-whileLoopMystery2)| [5.4: WhileLoopMystery2 - *Solved*](completed/february25/WhileLoopMystery2.java)|
+| 2/25 | [5.14: LogicExpressions2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/s14-logicExpressions2)| [5.14: LogicExpressions2 - *Solved*](completed/february25/LogicExpressions2.java)|
