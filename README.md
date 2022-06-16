@@ -58,4 +58,8 @@
 | 2/23 | [4.18: WordCount](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e18-wordCount)| [4.18: WordCount - *Solved*](completed/february23/WordCount.java)|
 | 2/25 | [5.3: ToBinary](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e3-toBinary)| [5.3: ToBinary - *Solved*](completed/february25/ToBinary.java)|
 | 2/25 | [5.4: WhileLoopMystery2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/s4-whileLoopMystery2)| [5.4: WhileLoopMystery2 - *Solved*](completed/february25/WhileLoopMystery2.java)|
+| 2/25 | [5.7: DiceSum](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e7-diceSum)| [5.7: DiceSum - *Solved*](completed/february25/DiceSum.java)|
+| 2/25 | [5.12: PrintAverage](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e12-printAverage)| [5.12: PrintAverage - *Solved*](completed/february25/PrintAverage.java)|
 | 2/25 | [5.14: LogicExpressions2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/s14-logicExpressions2)| [5.14: LogicExpressions2 - *Solved*](completed/february25/LogicExpressions2.java)|
+| 2/28 | [5.4: RandomX](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e4-randomX)| [5.4: RandomX - *Solved*](completed/february28/RandomX.java)|
+| 2/28 | [5.8: RandomWalk](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e8-randomWalk)| [5.14: RandomWalk - *Solved*](completed/february28/RandomWalk.java)|
