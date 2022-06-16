@@ -36,8 +36,7 @@ public class SmallestLargest {
         System.out.println("Smallest = " + smallest);
         System.out.println("Largest = " + largest);
 
-        kb.close(); // this line must be removed when inputting this answer into the Practice-It
-                    // text box; otherwise the program will not work and errors will be thrown
+        kb.close(); // this line must be removed when inputting this answer into the Practice-It text box; otherwise the program will not work and errors will be thrown
 
     }
 }

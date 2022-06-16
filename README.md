@@ -40,7 +40,7 @@
 | 2/11 | [3G.12: Triangle](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3g/e12-Triangle)| [3G.7: Triangle - *Solved*](completed/february11/Triangle.java)|
 | 2/14 | [3.8: ParameterMysteryTouch](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/s8-parameterMysteryTouch)| [3.8: ParameterMysteryTouch - *Solved*](completed/february14/ParameterMysteryTouch.java)|
 | 2/14 | [3.13: MathExpressions](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/s13-mathExpressions)| [3.13: MathExpressions - *Solved*](completed/february14/MathExpressions.java)|
-| 2/16 | [3.4: PrintSquare](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e4-printSquare)| [3.4: PrintSquare - *Incomplete*](completed/february16/PrintSquare.java)|
+| 2/16 | [3.4: PrintSquare](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e4-printSquare)| [3.4: PrintSquare - *Solved*](completed/february16/PrintSquare.java)|
 | 2/16 | [3.8: Quadratic](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e8-quadratic)| [3.8: Quadratic - *Solved*](completed/february16/Quadratic.java)|
 | 2/16 | [3.11: Distance](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e11-distance)| [3.11: Distance - *Solved*](completed/february16/Distance.java)|
 | 2/18 | [4.2: LogicExpressions1](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/s2-logicExpressions1)| [4.2: LogicExpressions1 - *Solved*](completed/february18/LogicExpressions1.java)|
@@ -56,6 +56,6 @@
 | 2/23 | [3.19: PrintReverse](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter3/e19-printReverse)| [3.19: PrintReverse - *Solved*](completed/february23/PrintReverse.java)|
 | 2/23 | [4.17: Stutter](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e17-stutter)| [4.17: Stutter - *Solved*](completed/february23/Stutter.java)|
 | 2/23 | [4.18: WordCount](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter4/e18-wordCount)| [4.18: WordCount - *Solved*](completed/february23/WordCount.java)|
-| 2/25 | [5.3: ToBinary](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e3-ToBinary)| [5.3: ToBinary - *Solved*](completed/february25/ToBinary.java)|
+| 2/25 | [5.3: ToBinary](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/e3-toBinary)| [5.3: ToBinary - *Solved*](completed/february25/ToBinary.java)|
 | 2/25 | [5.4: WhileLoopMystery2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/s4-whileLoopMystery2)| [5.4: WhileLoopMystery2 - *Solved*](completed/february25/WhileLoopMystery2.java)|
 | 2/25 | [5.14: LogicExpressions2](https://practiceit.cs.washington.edu/problem/view/bjp5/chapter5/s14-logicExpressions2)| [5.14: LogicExpressions2 - *Solved*](completed/february25/LogicExpressions2.java)|
